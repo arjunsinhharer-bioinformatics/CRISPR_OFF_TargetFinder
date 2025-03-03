@@ -60,9 +60,8 @@ python off_target.py
 
 ## Support
 
-If you encounter any issues, please reach out instead of deducting points:
+If you encounter any issues, please reach out
 
-- 📱 Phone/Text: 703-582-3705
 - 📧 Email: arjunsinhharer@brandeis.edu
 
 ## Author
